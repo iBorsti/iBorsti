@@ -1,86 +1,49 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Portfolio • Otto Borst</title>
-  <meta name="description" content="Portfolio moderno, minimalista y responsive para GitHub Pages." />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-  <style>
-    :root{
-      --bg: #1B1F3B;
-      --panel: rgba(255,255,255,0.06);
-      --text: #F4F4F4;
-      --muted:#FFC93C;
-      --acc1: #1EC6B1;
-      --acc2: #FF6B6B;
-      --ring: #FFC93C;
-      --card:#0f1320;
-      --shadow: 0 10px 30px rgba(0,0,0,.35);
-    }
-    [data-theme="light"]{
-      --bg:#F4F4F4; --panel: rgba(18,18,18,0.06); --text:#1B1F3B; --muted:#475569; --acc1:#1EC6B1; --acc2:#FF6B6B; --ring:#FFC93C; --card:#ffffff; --shadow: 0 10px 25px rgba(0,0,0,.08);
-    }
-    *{box-sizing:border-box}
-    body{
-      margin:0; font-family:Inter,system-ui, sans-serif;
-      background: var(--bg);
-      color:var(--text);
-    }
-    a{color:inherit; text-decoration:none}
-    .container{width:min(1100px, 92%); margin-inline:auto}
-    .btn{
-      border:1px solid transparent; background:linear-gradient(135deg, var(--acc1), var(--acc2));
-      color:#fff; font-weight:700; padding:12px 16px; border-radius:14px; box-shadow:var(--shadow)
-    }
-    .btn.secondary{background:transparent; color:var(--text); border-color: var(--muted)}
-    .chip{padding:8px 12px; border-radius:999px; background:var(--panel); border:1px solid var(--muted); color:var(--muted)}
-    .card{background:var(--card); border-radius:18px; box-shadow:var(--shadow)}
-  </style>
-</head>
-<body>
-  <main class="container">
-    <section class="hero">
-      <div>
-        <span>👋 Hola, soy Otto — Full‑Stack • Flutter • JS</span>
-        <h1>Construyo productos digitales rápidos y atractivos</h1>
-        <p>Me enfoco en experiencias móviles y web con rendimiento real, arquitectura limpia y buen diseño. Aquí verás mi trabajo, incluyendo <strong>Viazy</strong> e <strong>iShop</strong>.</p>
-        <div class="cta">
-          <a class="btn" href="https://github.com/" target="_blank">⭐ Ver mi GitHub</a>
-          <a class="btn secondary" href="mailto:tu.email@ejemplo.com">Escríbeme</a>
-        </div>
-      </div>
-    </section>
+<h2 align="left">Hola 👋! Soy Otto Borst y soy un simple desarrollador</h2>
 
-    <section id="proyectos">
-      <h2>Proyectos destacados</h2>
-      <div class="grid grid-3">
-        <article class="project card">
-          <div>
-            <h3>Viazy — App de transporte</h3>
-            <p>Venta de boletos interlocales con QR, rutas interurbanas en vivo y soporte virtual.</p>
-            <div class="skill-badges">
-              <span class="chip">Flutter</span>
-              <span class="chip">Firebase</span>
-              <span class="chip">Map SDK</span>
-            </div>
-          </div>
-        </article>
-        <article class="project card">
-          <div>
-            <h3>iShop — E‑commerce móvil</h3>
-            <p>Plataforma de compras con arquitectura limpia, APIs, estado con Riverpod y diseño accesible usando la paleta corporativa.</p>
-            <div class="skill-badges">
-              <span class="chip">Flutter</span>
-              <span class="chip">REST</span>
-              <span class="chip">Riverpod</span>
-            </div>
-          </div>
-        </article>
-      </div>
-    </section>
-  </main>
-</body>
-</html>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
