@@ -1,5 +1,6 @@
 <h2 align="left">Hola 👋! Mi nombre es Otto Borst, soy de Nicaragua y soy un simple desarrollador!</h2>
 
+
 ###
 
 <div align="center">
@@ -9,8 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="![WhatsApp Image 2025-08-11 at 8 54 14 AM](https://github.com/user-attachments/assets/29998993-5e48-46c1-a82e-b06e2bc68f61)
-  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
