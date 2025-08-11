@@ -60,7 +60,6 @@ iShop — E‑commerce móvil (en desarrollo)
 
 </div>
 
-https://github.com/Platane/snk --><img src="https://raw.githubusercontent.com/iBorsti/iBorsti/output/snake.svg" alt="Snake animation" />
 ---
 
 
