@@ -54,16 +54,15 @@ iShop — E‑commerce móvil (en desarrollo)
 <img src="https://img.shields.io/badge/Riverpod-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/REST-FFC93C?style=for-the-badge" />
 
-> Arquitectura limpia, estado con Riverpod, consumo de APIs y UI accesible siguiendo la paleta iShop.
+> Arquitectura limpia, estado con Riverpod, consumo de APIs y UI accesible.
 
 
 
 </div>
 
-<br clear="both"/><!-- Animación snake de contribuciones --><!-- Reemplaza iBorsti por tu usuario real y habilita GitHub Actions del repo: https://github.com/Platane/snk --><img src="https://raw.githubusercontent.com/iBorsti/iBorsti/output/snake.svg" alt="Snake animation" />
+https://github.com/Platane/snk --><img src="https://raw.githubusercontent.com/iBorsti/iBorsti/output/snake.svg" alt="Snake animation" />
 ---
 
-> 💡 Tip: si usas esto en tu README.md del perfil, crea un repo llamado exactamente iBorsti/iBorsti. Sustituye iBorsti por tu usuario real en los enlaces de arriba.
 
 
 
