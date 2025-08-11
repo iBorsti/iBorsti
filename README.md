@@ -1,79 +1,86 @@
-<div align="Center">
-<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portfolio • Otto Borst</title>
+  <meta name="description" content="Portfolio moderno, minimalista y responsive para GitHub Pages." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --bg: #1B1F3B;
+      --panel: rgba(255,255,255,0.06);
+      --text: #F4F4F4;
+      --muted:#FFC93C;
+      --acc1: #1EC6B1;
+      --acc2: #FF6B6B;
+      --ring: #FFC93C;
+      --card:#0f1320;
+      --shadow: 0 10px 30px rgba(0,0,0,.35);
+    }
+    [data-theme="light"]{
+      --bg:#F4F4F4; --panel: rgba(18,18,18,0.06); --text:#1B1F3B; --muted:#475569; --acc1:#1EC6B1; --acc2:#FF6B6B; --ring:#FFC93C; --card:#ffffff; --shadow: 0 10px 25px rgba(0,0,0,.08);
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0; font-family:Inter,system-ui, sans-serif;
+      background: var(--bg);
+      color:var(--text);
+    }
+    a{color:inherit; text-decoration:none}
+    .container{width:min(1100px, 92%); margin-inline:auto}
+    .btn{
+      border:1px solid transparent; background:linear-gradient(135deg, var(--acc1), var(--acc2));
+      color:#fff; font-weight:700; padding:12px 16px; border-radius:14px; box-shadow:var(--shadow)
+    }
+    .btn.secondary{background:transparent; color:var(--text); border-color: var(--muted)}
+    .chip{padding:8px 12px; border-radius:999px; background:var(--panel); border:1px solid var(--muted); color:var(--muted)}
+    .card{background:var(--card); border-radius:18px; box-shadow:var(--shadow)}
+  </style>
+</head>
+<body>
+  <main class="container">
+    <section class="hero">
+      <div>
+        <span>👋 Hola, soy Otto — Full‑Stack • Flutter • JS</span>
+        <h1>Construyo productos digitales rápidos y atractivos</h1>
+        <p>Me enfoco en experiencias móviles y web con rendimiento real, arquitectura limpia y buen diseño. Aquí verás mi trabajo, incluyendo <strong>Viazy</strong> e <strong>iShop</strong>.</p>
+        <div class="cta">
+          <a class="btn" href="https://github.com/" target="_blank">⭐ Ver mi GitHub</a>
+          <a class="btn secondary" href="mailto:tu.email@ejemplo.com">Escríbeme</a>
+        </div>
+      </div>
+    </section>
 
-<div align="center">
-
-<a href="https://github.com/CtorW">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
-</a>
-
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
-</div>
-
-
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
-
-💻 Passionately building an **Arch Installer** project. 
-
-
-<div align="Center">
-<h1>Skills</h1>
-</div>
-
-<div align="Center">
-
-| Website | Programming |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
-
-</div>
-
-<br>
-<br>
-<br>
-
-<div align="Center">
-<h1>Operating Systems</h1>
-
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
-
-</div>
-
-<br>
-<br>
-
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
-
-
-
-<div align="Center">
-
-| CtorW's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
-
-| Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
-
-
-</div>
-
-<br>
-<br>
-
-<div align="Center">
-
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
-
-</div>
-
-------
-
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005
+    <section id="proyectos">
+      <h2>Proyectos destacados</h2>
+      <div class="grid grid-3">
+        <article class="project card">
+          <div>
+            <h3>Viazy — App de transporte</h3>
+            <p>Venta de boletos interlocales con QR, rutas interurbanas en vivo y soporte virtual.</p>
+            <div class="skill-badges">
+              <span class="chip">Flutter</span>
+              <span class="chip">Firebase</span>
+              <span class="chip">Map SDK</span>
+            </div>
+          </div>
+        </article>
+        <article class="project card">
+          <div>
+            <h3>iShop — E‑commerce móvil</h3>
+            <p>Plataforma de compras con arquitectura limpia, APIs, estado con Riverpod y diseño accesible usando la paleta corporativa.</p>
+            <div class="skill-badges">
+              <span class="chip">Flutter</span>
+              <span class="chip">REST</span>
+              <span class="chip">Riverpod</span>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
