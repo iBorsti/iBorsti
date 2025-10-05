@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Viazy · Compra de boletos</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="brand">
+        <span class="brand__icon" aria-hidden="true">🚌</span>
+        <div class="brand__copy">
+          <span class="brand__title">Viazy</span>
+          <span class="brand__subtitle">Compra de boletos</span>
+        </div>
+      </div>
+      <nav class="header-actions" aria-label="Acciones">
+        <button class="ghost-button" type="button">Mis viajes</button>
+        <button class="primary-button" type="button">Cerrar sesión</button>
+      </nav>
+    </header>
+
+    <main class="layout">
+      <section class="booking-card" aria-label="Selector de rutas">
+        <div class="booking-card__intro">
+          <p class="eyebrow">Paso 1</p>
+          <h1>Elige tu ruta ideal</h1>
+          <p class="lead">
+            Selecciona el origen y destino para conocer las salidas disponibles
+            durante toda la semana.
+          </p>
+        </div>
+
+        <form class="booking-form" id="route-form">
+          <div class="form-group">
+            <label for="origin-select">Origen</label>
+            <div class="select-wrapper">
+              <select id="origin-select" required>
+                <option value="" disabled selected>Selecciona ciudad de origen</option>
+                <option value="san-jose">San José</option>
+                <option value="alajuela">Alajuela</option>
+                <option value="heredia">Heredia</option>
+                <option value="cartago">Cartago</option>
+                <option value="limon">Limón</option>
+                <option value="puntarenas">Puntarenas</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="destination-select">Destino</label>
+            <div class="select-wrapper">
+              <select id="destination-select" required>
+                <option value="" disabled selected>Selecciona ciudad de destino</option>
+                <option value="san-jose">San José</option>
+                <option value="alajuela">Alajuela</option>
+                <option value="heredia">Heredia</option>
+                <option value="cartago">Cartago</option>
+                <option value="limon">Limón</option>
+                <option value="puntarenas">Puntarenas</option>
+              </select>
+            </div>
+          </div>
+        </form>
+      </section>
+
+      <section
+        class="schedule-panel"
+        id="schedule-panel"
+        aria-live="polite"
+        aria-label="Opciones de salida disponibles"
+      >
+        <div class="schedule-panel__header">
+          <div>
+            <p class="eyebrow">Paso 2</p>
+            <h2>Salidas disponibles</h2>
+          </div>
+          <p class="panel-hint">
+            Selecciona la salida que más te convenga. Muestra itinerarios para
+            los próximos 7 días.
+          </p>
+        </div>
+        <div class="schedule-list" id="schedule-list"></div>
+      </section>
+
+      <section class="seat-panel" id="seat-panel" aria-label="Selección de asientos">
+        <div class="seat-panel__header">
+          <div>
+            <p class="eyebrow">Paso 3</p>
+            <h2>Selecciona tus asientos</h2>
+          </div>
+          <p class="panel-hint" id="selected-route-summary"></p>
+        </div>
+
+        <form class="seat-form" id="seat-form">
+          <div class="quantity-control">
+            <label class="quantity-control__label" for="seat-count"
+              >Cantidad de asientos</label
+            >
+            <div class="quantity-control__input">
+              <button type="button" class="step-button" data-step="-1" aria-label="Restar asiento">
+                &minus;
+              </button>
+              <input
+                id="seat-count"
+                name="seat-count"
+                type="number"
+                min="1"
+                max="10"
+                value="1"
+                inputmode="numeric"
+                pattern="[0-9]*"
+                required
+              />
+              <button type="button" class="step-button" data-step="1" aria-label="Sumar asiento">
+                +
+              </button>
+            </div>
+          </div>
+
+          <div class="seat-actions">
+            <button type="button" class="ghost-button" id="change-route">
+              Cambiar ruta
+            </button>
+            <button type="submit" class="primary-button" id="continue-button" disabled>
+              Continuar a pago
+            </button>
+          </div>
+        </form>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <p>
+        ¿Necesitas ayuda? Contacta a nuestro agente virtual disponible 24/7 o
+        llama al <strong>800-VIAZY</strong>.
+      </p>
+    </footer>
+
+    <template id="route-card-template">
+      <article class="route-card">
+        <header class="route-card__header">
+          <span class="route-card__day"></span>
+          <span class="route-card__date"></span>
+        </header>
+        <div class="route-card__body">
+          <div class="route-card__time"></div>
+          <div class="route-card__meta">
+            <span class="route-card__bus"></span>
+            <span class="route-card__extras"></span>
+          </div>
+        </div>
+        <footer class="route-card__footer">
+          <button type="button" class="select-button">Seleccionar</button>
+        </footer>
+      </article>
+    </template>
+
+    <script src="script.js" type="module"></script>
+  </body>
+</html>
