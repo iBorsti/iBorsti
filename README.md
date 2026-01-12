@@ -1,67 +1,110 @@
-<h2 align="left">Hola 👋, soy Otto Borst — un desarrollador que disfruta construir cosas útiles y bien diseñadas</h2>
+# ¡Hola! Soy iBorsti 👋
 
-<div align="center">
-  <!-- Reemplaza iBorsti por tu usuario real -->
-  <img src="https://github-readme-stats.vercel.app/api?username=iBorsti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iBorsti&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
-
-<!-- Stack principal --><div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
-</div>
-
-<!-- Botonera social (paleta iShop: turquesa, coral, ámbar, navy) --><div align="left">
-  <!-- Reemplaza los href con tus enlaces reales -->
-  <a href="#"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube" /></a>
-  <a href="https://www.instagram.com/_borst/profilecard/?igsh=Zms2Zzh5Y3JuZXBu"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" /></a>
-  <a href="mailto: ottoborst830@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" /></a>
-  <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=otto-borst-294298261"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" /></a>
-</div>
-
-<!-- Proyectos destacados con colores iShop --><div align="left">Viazy — App de transporte
-<img src="https://img.shields.io/badge/Flutter-1EC6B1?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FF6B6B?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Maps-FFC93C?style=for-the-badge" />
-
-> Boletos interlocales con QR único, rutas interurbanas en vivo y agente virtual para dudas y rutas.
-
-
-
-iShop — E‑commerce móvil (en desarrollo)
-<a href="#"><img src="https://img.shields.io/badge/Repositorio-(temp)-1B1F3B?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Roadmap-(temp)-1EC6B1?style=for-the-badge" /></a>
-<img src="https://img.shields.io/badge/Flutter-1EC6B1?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Riverpod-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST-FFC93C?style=for-the-badge" />
-
-> Arquitectura limpia, estado con Riverpod, consumo de APIs y UI accesible.
-
-
-
-</div>
+> Diseñador e ingeniero de software | Construyo productos digitales con una mezcla de visión estética y código sólido.  
+> Me enfoco en experiencia de usuario, rendimiento y soluciones cross-platform con Flutter.
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iBorsti&show_icons=true&locale=es&theme=radical" alt="iBorsti GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBorsti&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/iBorsti?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Explorando-blue?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/iBorsti"><img alt="Followers" src="https://img.shields.io/github/followers/iBorsti?label=Seguidores&style=for-the-badge"></a>
+  <a href="mailto:hello@tudominio.com"><img alt="Email" src="https://img.shields.io/badge/Contacto-Email-blueviolet?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/iBorsti"><img alt="Visitor" src="https://komarev.com/ghpvc/?username=iBorsti&color=blue&style=for-the-badge"></a>
+</p>
 
+---
+
+## ¿Qué hago?
+- Transformo ideas en productos: desde prototipos de alta fidelidad hasta apps móviles cross-platform y microservicios.
+- Me apasiona la experiencia de usuario, el rendimiento y el código mantenible.
+- Trabajo full-stack y mobile: diseño, frontend, backend e infra cuando hace falta.
+
+## Tecnologías & Herramientas (destacado)
+- Lenguajes: JavaScript/TypeScript, Python, Go, SQL, Dart
+- Mobile / UI: Flutter, Dart, React, Next.js, Tailwind CSS
+- Backend: Node.js, Express, FastAPI, gRPC
+- DevOps / Infra: Docker, Kubernetes, GitHub Actions, Terraform (básico)
+- Bases de datos: PostgreSQL, Redis, MongoDB
+- Testing & Calidad: Jest, Playwright, pytest, linters, CI/CD
+- Diseño: Figma, Adobe XD
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+---
+
+## Showcase — GIFs y demos
+Aquí muestro demos animadas (GIFs) para que veas el comportamiento real de las aplicaciones. Sube tus GIFs al repo del proyecto (por ejemplo en `assets/gifs/`) y reemplaza las URLs a continuación por las tuyas.
+
+- Consejo para hosting de GIFs en GitHub: coloca el GIF en el repo del proyecto y usa la URL cruda:
+  https://raw.githubusercontent.com/<TU_USUARIO>/<TU_REPO>/main/assets/gifs/mi-demo.gif
+
+Proyecto destacado — Interfaz y flujo rápido
+<br/>
+[Proyecto-A](https://github.com/iBorsti/Proyecto-A) • Next.js · PostgreSQL · Docker  
+<img src="https://raw.githubusercontent.com/iBorsti/<repo>/main/assets/gifs/proyecto-a-demo.gif" alt="Proyecto A demo" width="720" />
+
+Proyecto mobile — Flutter cross-platform
+<br/>
+[MiAppFlutter](https://github.com/iBorsti/MiAppFlutter) • Flutter · Dart · Firebase  
+<img src="https://raw.githubusercontent.com/iBorsti/<repo>/main/assets/gifs/miapp-flutter-demo.gif" alt="Mi App Flutter demo" width="720" />
+
+Microservicio — Auth & API
+<br/>
+[Microservicio-B](https://github.com/iBorsti/Microservicio-B) • Go · gRPC · Redis  
+<img src="https://raw.githubusercontent.com/iBorsti/<repo>/main/assets/gifs/microservicio-b-demo.gif" alt="Microservicio demo" width="720" />
+
+> Reemplaza `<repo>` por el nombre real del repositorio donde subas cada GIF.
+
+---
+
+## Badges y estadísticas por proyecto
+Puedes añadir badges por repositorio (estrellas, forks, acciones, versión) con shields.io. Ejemplos:
+
+- Estrellas:  
+  ![stars](https://img.shields.io/github/stars/iBorsti/Proyecto-A?style=for-the-badge)
+- Build (GitHub Actions):  
+  ![build](https://img.shields.io/github/actions/workflow/status/iBorsti/Proyecto-A/ci.yml?style=for-the-badge)
+- Último commit:  
+  ![last-commit](https://img.shields.io/github/last-commit/iBorsti/Proyecto-A?style=for-the-badge)
+
+Inserta estas imágenes justo encima de la descripción de cada proyecto para mostrar métricas rápidas.
+
+---
+
+## Proyectos recomendados (fija en tu perfil)
+- Proyecto-A — Plataforma web escalable para gestión de contenidos.
+- MiAppFlutter — App móvil cross-platform hecha con Flutter.
+- Microservicio-B — Servicio de autenticación con OAuth2.
+
+---
+
+## Contacto
+- Correo: hello@tudominio.com (reemplaza por el tuyo)
+- LinkedIn: https://www.linkedin.com/in/tu-perfil (reemplaza por el tuyo)
+- Twitter / X: https://twitter.com/tu_usuario (opcional)
+
+---
+
+## Cómo dejarlo perfecto (pasos rápidos)
+1. Sube los GIFs a los repos de cada proyecto (ej. `assets/gifs/`).
+2. Reemplaza las URLs de GIFs en este README por las URLs crudas (raw.githubusercontent.com).
+3. Añade badges de stars/build con shields.io para tus repos.
+4. Fija (pin) los repos principales en tu perfil para que aparezcan arriba.
+5. Si quieres, te ayudo a crear las imágenes GIF (grabación + optimización) y a añadir una GitHub Action que genere thumbnails automáticamente.
+
+---
+
+Gracias por pasar por mi perfil. Si quieres, preparo las URLs exactas y los assets (GIFs optimizados y badges) listos para pegar: dime en qué repos subiste los GIFs o si quieres que te proponga nombres y una carpeta estándar para los assets.
