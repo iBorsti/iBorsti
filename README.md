@@ -45,66 +45,9 @@
 
 ---
 
-## Showcase — GIFs y demos
-Aquí muestro demos animadas (GIFs) para que veas el comportamiento real de las aplicaciones. Sube tus GIFs al repo del proyecto (por ejemplo en `assets/gifs/`) y reemplaza las URLs a continuación por las tuyas.
-
-- Consejo para hosting de GIFs en GitHub: coloca el GIF en el repo del proyecto y usa la URL cruda:
-  https://raw.githubusercontent.com/<TU_USUARIO>/<TU_REPO>/main/assets/gifs/mi-demo.gif
-
-Proyecto destacado — Interfaz y flujo rápido
-<br/>
-[Proyecto-A](https://github.com/iBorsti/Proyecto-A) • Next.js · PostgreSQL · Docker  
-<img src="https://raw.githubusercontent.com/iBorsti/<repo>/main/assets/gifs/proyecto-a-demo.gif" alt="Proyecto A demo" width="720" />
-
-Proyecto mobile — Flutter cross-platform
-<br/>
-[MiAppFlutter](https://github.com/iBorsti/MiAppFlutter) • Flutter · Dart · Firebase  
-<img src="https://raw.githubusercontent.com/iBorsti/<repo>/main/assets/gifs/miapp-flutter-demo.gif" alt="Mi App Flutter demo" width="720" />
-
-Microservicio — Auth & API
-<br/>
-[Microservicio-B](https://github.com/iBorsti/Microservicio-B) • Go · gRPC · Redis  
-<img src="https://raw.githubusercontent.com/iBorsti/<repo>/main/assets/gifs/microservicio-b-demo.gif" alt="Microservicio demo" width="720" />
-
-> Reemplaza `<repo>` por el nombre real del repositorio donde subas cada GIF.
-
----
-
-## Badges y estadísticas por proyecto
-Puedes añadir badges por repositorio (estrellas, forks, acciones, versión) con shields.io. Ejemplos:
-
-- Estrellas:  
-  ![stars](https://img.shields.io/github/stars/iBorsti/Proyecto-A?style=for-the-badge)
-- Build (GitHub Actions):  
-  ![build](https://img.shields.io/github/actions/workflow/status/iBorsti/Proyecto-A/ci.yml?style=for-the-badge)
-- Último commit:  
-  ![last-commit](https://img.shields.io/github/last-commit/iBorsti/Proyecto-A?style=for-the-badge)
-
-Inserta estas imágenes justo encima de la descripción de cada proyecto para mostrar métricas rápidas.
-
----
-
-## Proyectos recomendados (fija en tu perfil)
-- Proyecto-A — Plataforma web escalable para gestión de contenidos.
-- MiAppFlutter — App móvil cross-platform hecha con Flutter.
-- Microservicio-B — Servicio de autenticación con OAuth2.
-
----
-
 ## Contacto
-- Correo: hello@tudominio.com (reemplaza por el tuyo)
-- LinkedIn: https://www.linkedin.com/in/tu-perfil (reemplaza por el tuyo)
-- Twitter / X: https://twitter.com/tu_usuario (opcional)
-
+- Correo: ottoborst830@gmail.com
 ---
 
-## Cómo dejarlo perfecto (pasos rápidos)
-1. Sube los GIFs a los repos de cada proyecto (ej. `assets/gifs/`).
-2. Reemplaza las URLs de GIFs en este README por las URLs crudas (raw.githubusercontent.com).
-3. Añade badges de stars/build con shields.io para tus repos.
-4. Fija (pin) los repos principales en tu perfil para que aparezcan arriba.
-5. Si quieres, te ayudo a crear las imágenes GIF (grabación + optimización) y a añadir una GitHub Action que genere thumbnails automáticamente.
 
----
-
-Gracias por pasar por mi perfil. Si quieres, preparo las URLs exactas y los assets (GIFs optimizados y badges) listos para pegar: dime en qué repos subiste los GIFs o si quieres que te proponga nombres y una carpeta estándar para los assets.
+Gracias por pasar por mi perfil.
